@@ -1,1 +1,1 @@
-Load Balancer
+load balancer
